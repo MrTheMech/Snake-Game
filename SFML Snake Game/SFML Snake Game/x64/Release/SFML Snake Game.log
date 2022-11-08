@@ -1,0 +1,21 @@
+﻿  stickman.cpp
+  draw.cpp
+  engine.cpp
+d:\sfml snake game\sfml snake game\sfml snake game\engine.cpp(7): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\sfml snake game\sfml snake game\sfml snake game\engine.cpp(117): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\sfml snake game\sfml snake game\sfml snake game\engine.cpp(197): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  input.cpp
+  main.cpp
+  snakesection.cpp
+  update.cpp
+  wall.cpp
+MSVCRT.lib(exe_winmain.obj) : error LNK2001: unresolved external symbol WinMain
+D:\SFML Snake Game\SFML Snake Game\x64\Release\SFML Snake Game.exe : fatal error LNK1120: 1 unresolved externals
